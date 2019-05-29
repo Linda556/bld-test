@@ -3,8 +3,5 @@ dependencies:
   - pip:
     - pandas
     - numpy
-    - sklearn
-    - matplotlib
-    - sklearn.metrics
     - scipy
     - ipykernel
