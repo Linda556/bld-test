@@ -4,5 +4,4 @@ dependencies:
     - pandas
     - numpy
     - scipy
-    - turtle
     - ipykernel
